@@ -1,11 +1,37 @@
-body {
-    border-block-start-width: 500px; 
-    background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-electric-blue-solid-color-background.jpg)
+body { text-align: center;
+ width: 600px; 
+ color: #39ff14;
 }
-
+#Order{
+text-align: left 
+}
+h2{
+text-align: center
+}
 img {
- width: 300px
+width: 450px
 }
 h1{
-width: 600px
+width: 600px;
+text-align: center
+}
+ul{
+width: 500px;
+font-size: 20px
+}
+p{
+font-size: 20px
+}
+ol{
+width: 400px;
+font-size: 20px
+}
+div{
+border: 30px #39ff14;
+width: 600px; 
+background: #0892d0;
+text-align: center
+}
+h3{
+font-size: 25px
 }
