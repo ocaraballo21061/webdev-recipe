@@ -1,8 +1,11 @@
-
+body {
+    border-block-start-width: 500px; 
+    background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-electric-blue-solid-color-background.jpg)
+}
 
 img {
- width: 500px
+ width: 300px
 }
 h1{
-width: 300px
+width: 600px
 }
